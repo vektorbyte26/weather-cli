@@ -1,0 +1,6 @@
+{
+  "city": "Helsinki",
+  "temperature_c": 4,
+  "condition": "Cloudy",
+  "source": "synthetic test fixture"
+}
