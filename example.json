@@ -1,6 +1,6 @@
 {
-  "city": "Helsinki",
-  "temperature_c": 4,
-  "condition": "Cloudy",
+  "city": "Vilnius",
+  "temperature_c": 6,
+  "condition": "Rain",
   "source": "synthetic test fixture"
 }
